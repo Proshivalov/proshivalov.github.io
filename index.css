@@ -137,13 +137,7 @@ a:visited {
 .header {
     font-weight: 200;
     font-size: 15px;
-    margin-bottom: 8px;
-
-    display: block;
-}
-
-.rules p:not([line]) {
-    display: inline-block;
+    margin: 8px 0 15px 25px;
 }
 
 .rules p {
